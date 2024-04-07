@@ -68,3 +68,14 @@ The following files were edited for this portion of the enhancement:
 **\travlr\travlr-admin\src\app\app-router.module.ts  (Lines 4,7,11,18 and 24 were added)**
 <br />
 **\travlr\travlr-admin\src\app\app.module.ts (Lines 12,13,14,15,16,17,26,28,30,32 and 46 were added)** 
+
+<br/> 
+<br/>
+<br/> 
+<br/>
+<br/> 
+<br/>
+
+[**Return to Main Repository**](https://github.com/JessicaDuft/CS499-Capstone)
+
+
