@@ -80,6 +80,6 @@ The following files were edited for this portion of the enhancement:
 <br/> 
 <br/>
 
-[**Return to Main Repository**](https://github.com/JessicaDuft/CS499-Capstone)
+[**Return to EPortfolio**](https://github.com/JessicaDuft/CS499-Capstone)
 
 
